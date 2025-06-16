@@ -1,102 +1,102 @@
-# README
-
-## 🧠 1. Language, Symbolism & Future Philosophy
-
-### ◦ Cognitive Linguistics & Metalanguage  
-Language is not merely a tool for communication, but a kind of **container and generator of thought**.  
-It shapes cognition, encodes identity, and constructs reality.
-
-### ◦ Semiotics & Mechanisms of Desire  
-From **Peirce** to **Lacan** and **Deleuze**, explore how language connects **power, identity, and impulse**.
-
-### ◦ Modern / Postmodern / Future Philosophy  
-From **Descartes** to **Wittgenstein**, **Foucault**, **Harari**, **Luhmann** — how thought, power, and technology shape being.
-
-### ◦ Mathematical Logic & Abstract Modeling  
-Treat **metalanguage as the ultimate modeling syntax**. Explore how **set theory**, **category theory**, **formal systems**, **Turing-completeness**, and **Gödel’s incompleteness** model consciousness.
-
-### ◦ Computational Language & Meta-Reality Programming  
-From **natural semantics** to **compiler theory**, study how code becomes the **infrastructure of technical reality**.
+#  README
 
 ---
 
-## 🧬 2. Consciousness, Neural Mechanisms & General Intelligence
+## 🧠 1. Language, Symbols, and Future Philosophy
 
-### ◦ Neuroscience & Artificial Consciousness  
-Explore the link between **neural activity** and **subjective experience**, and how it informs models of **synthetic awareness**.
+- **Cognitive Linguistics and Metalanguage**  
+  Language is not just a tool for communication but a container and generative mechanism for thought. This explores how language maps cognition, encodes identity, shapes perception, and constructs worlds.
 
-### ◦ Modern Psychology & Behavioral Systems  
-Analyze cognitive structures, decision-making, unconscious processes, and **computational models of behavior**.
+- **Semiotics and the Mechanics of Desire**  
+  From Peirce to Lacan and Deleuze, how language links power, identity, and impulse.
 
-### ◦ Artificial & General Intelligence  
-Explore **generalization limits**, **simulated awareness**, **ethics**, and **human–AI coexistence**.
+- **Modern / Postmodern / Future Philosophy**  
+  From Descartes to Wittgenstein, Foucault, Harari, Luhmann, and others, investigating how thought shapes existence.
 
-### ◦ Computational Autonomy & Tech-Liberty  
-Advocate for **free software**, **individual sovereignty**, and systems enabling **informational self-governance**.
+- **Mathematical Logic and Abstract Modeling**  
+  Using metalanguage as the ultimate form of mathematics—exploring set theory, category theory, formal systems, Turing completeness, and incompleteness theorems as tools for modeling consciousness.
 
----
-
-## 🎨 3. Sensory Arts & Cultural Aesthetics
-
-### ◦ Sexual Aesthetics & Embodied Culture  
-Sex is a **biocultural interface**. Investigate how **desire, identity, symbol, and embodiment** converge into aesthetic expression.
-
-### ◦ Music & Spatial Acoustics  
-Explore how **rhythm, frequency, and reverb** shape emotion and perception through space.
-
-### ◦ Olfactory Art & Experimental Perfumery  
-Create **temporal-scent landscapes** by blending **molecular design**, **cultural narrative**, and **olfactory memory**.
-
-### ◦ Visual Arts & Painting  
-Study how **shape, color, composition, and imagery** activate perception; visual language as emotional code.
-
-### ◦ Sculpture & Spatial Form  
-Sculpture becomes an **extension of bodily intelligence**, integrating **material, proportion, and tactile logic**.
-
-### ◦ Game Art & Immersive Aesthetics  
-Design multisensory **virtual environments**, merging **interaction logic** and **aesthetic systems**.
-
-### ◦ Sensory Interfaces & Multimodal Expression  
-Unify **sight, sound, smell, and touch** to create embodied, **technologically enhanced art experiences**.
+- **Computational Language and Metareality Programming**  
+  Bridging natural and formal languages, from semantics to compiler theory, exploring how computational language constructs the "metareality" of the technical world.
 
 ---
 
-## 🔬 4. Natural Science, Engineering & Materials
+## 🧬 2. Consciousness, Neural Mechanisms, and AGI Models
 
-### ◦ Theoretical Physics & Mathematics  
-Training includes **field theory**, **symmetry breaking**, **chaotic systems**, **topology**, **information theory**, etc.
+- **Neuroscience and Artificial Consciousness**  
+  Exploring the correlation between neural activity and subjective experience, constructing technical models for simulated consciousness.
 
-### ◦ New Materials & Aesthetic Function  
-Materials as **sensory mediums** — light, heat, texture — used in **design, architecture, and interaction**.
+- **Modern Psychology and Behavioral Sciences**  
+  Investigating the computable structures behind cognition, decision conflict, desire patterns, and the unconscious.
 
-### ◦ Chemistry, Molecular Systems & Psychopharmacology  
-Study how molecules affect **emotion, cognition, scent**, and **neural regulation**.
+- **Artificial Intelligence and Artificial General Intelligence**  
+  Reflecting on model generalization, boundaries of consciousness simulation, technological ethics, and possibilities for human-machine coexistence.
 
-### ◦ Ecology & Evolutionary Adaptation  
-Bridge ecological behavior with **techno-biological feedback** and **adaptive systems**.
-
-### ◦ Structural Engineering & Distributed Complexity  
-Model **form stability**, **modularity**, and **fractal structures** found in both **natural and artificial systems**.
+- **Computational Systems and Technological Autonomy**  
+  Upholding software libertarianism, building system architectures that support individual sovereignty and information autonomy.
 
 ---
 
-## 🖥️ 5. Systems, Cybersecurity & Tech-Liberty
+## 🎨 3. Sensory Arts and Aesthetic Culture
 
-### ◦ System Architecture & Low-Level Computation  
-Understand **OS design**, **compiler chains**, and **browser engines** as foundations of system autonomy.
+- **Sexual Aesthetics and Cultural Perception**  
+  Sex is not only a biological act but a cultural mechanism. It is approached as a multimodal aesthetic interface—psychologically, physiologically, socially, and artistically—studying how sex becomes a convergence point of body, symbol, desire, and art.
 
-### ◦ Hardware & Embedded Systems  
-From **transistor logic** to **bus design**, link **physical computing** with **abstract logic systems**.
+- **Music and Spatial Acoustics**  
+  Analyzing how rhythmic structures manipulate perception and cognition through tempo, frequency, and spatial reverberation as a psychological response system.
 
-### ◦ Electronics & Circuit Design  
-From **analog/digital signal flow** to **microcontroller interfaces** and **IoT systems**.
+- **Olfaction and the Art of Perfumery**  
+  Treating scent as an information interface, combining molecular design, olfactory memory, and cultural narratives to construct a temporal and metaphorical landscape of smell.
 
-### ◦ Cybersecurity & Offensive-Defensive Structures  
-Analyze **vulnerabilities**, **encryption protocols**, **penetration logic**, and **cybernetic defense**.
+- **Visual Art, Painting, and Imagery**  
+  Investigating how shape, color, composition, and imagery evoke perception. Using painting as a visual language to connect art history, constructivist psychology, and contemporary expression.
 
-### ◦ Privacy & Informational Sovereignty  
-Promote **encryption**, **decentralization**, and **personal data control** as digital survival fundamentals.
+- **Sculpture and Spatial Form Design**  
+  Exploring interaction between materials, proportions, and tactile sensation. Sculpture as an extension of bodily experience—merging form language, spatial perception, and material logic.
 
-### ◦ Cyber Libertarianism  
-Advocate for **freedom of expression, creation, anonymity, and choice** in the digital realm.  
-Oppose centralization and disciplinary regimes; use **technology as a tool of liberation**.
+- **Immersive Games and Virtual Aesthetic Mechanisms**  
+  From aesthetic systems to interaction logic—integrating visuals, sound, narrative, and mechanics to study how virtual space and participatory art construct perception.
+
+- **Sensory Art and Somatic Interfaces**  
+  Integrating touch, sight, smell, and sound to design multimodal aesthetic experiences—exploring the body's role as a medium in technological aesthetics.
+
+---
+
+## 🔬 4. Theoretical Natural Sciences, Natural Engineering, and Materials
+
+- **Theoretical Physics and Mathematics**  
+  Systematic training in field theory, symmetry breaking, chaotic systems, information theory, statistics, topology, and more.
+
+- **New Materials Science and Aesthetic Practice**  
+  Studying materials as sensory media by their tactile, thermal, and spectral properties—merging utility and aesthetic form.
+
+- **Chemistry, Drug Synthesis, and Molecular Systems**  
+  Exploring molecular construction, neuromodulatory substances, and synthetic mechanisms that regulate cognition and emotion—linking scent, mental states, and molecules.
+
+- **Ecosystems and Evolutionary Adaptivity**  
+  Integrating ecological behavior, biofeedback mechanisms, and technological intervention—building "techno-ecological coupling systems."
+
+- **Structural Engineering and Distributed Complexity**  
+  Modeling structural form evolution—simulating natural stability, adaptivity, and fractal harmonics.
+
+---
+
+## 💻 5. Network Systems, Cybersecurity Structures, and Technological Freedom
+
+- **System Architecture and Low-Level Languages**  
+  Understanding the role of operating systems, browser engines, and compilers in systemic coherence and efficiency.
+
+- **Computer Hardware and Embedded Architecture**  
+  From transistors to bus design—merging physical systems with abstract logic.
+
+- **Circuit Logic and Electronic Systems**  
+  From analog/digital signals to microcontrollers and IoT systems—designing real-world interfaces.
+
+- **Cybersecurity and Offensive-Defensive Engineering**  
+  Understanding system vulnerabilities, encryption protocols, penetration paths, and cyberspace game theory—building defensive freedom at the technical frontier.
+
+- **Anonymity Rights and Information Freedom**  
+  Emphasizing the foundational importance of privacy sovereignty, encrypted communication, decentralization, and personal data control in digital survival.
+
+- **Cyber Libertarianism**  
+  Affirming that technology should support individual freedom of choice, expression, creation, and anonymity. Advocating distributed power structures and opposing centralized control and technical discipline—using technology as a tool for liberty.
