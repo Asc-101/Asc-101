@@ -100,3 +100,6 @@
 
 - **Cyber Libertarianism**  
   Affirming that technology should support individual freedom of choice, expression, creation, and anonymity. Advocating distributed power structures and opposing centralized control and technical discipline—using technology as a tool for liberty.
+
+---
+[🇨🇳 中文版 README](./README.zh-CN.md)
