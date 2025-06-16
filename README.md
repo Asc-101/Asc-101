@@ -1,7 +1,7 @@
 # README
 
 ## 1. Language, Symbolism, and Future Philosophy  
-**Cognitive Linguistics and Metalanguage**: Language is not merely a communication tool, but a container and generative mechanism of thought. This section explores how language maps cognition, encodes identity, shapes perception, and constructs reality.  
+**Cognitive Linguistics and Metalanguage**: Language is not merely a communication tool, but a kind of container and generative mechanism of thought. This section explores how language maps cognition, encodes identity, shapes perception, and constructs reality.  
 **Semiotics and the Mechanisms of Desire**: From Charles Sanders Peirce to Jacques Lacan and Gilles Deleuze, investigating how language connects power, identity, and impulse.  
 **Modern / Postmodern / Future Philosophy**: From Descartes to Wittgenstein, Foucault, Harari, and Luhmann, this explores how thought shapes existence in increasingly technocentric societies.  
 **Mathematical Logic and Abstract Modeling**: Treating metalanguage as the ultimate form of mathematical expression, this section explores how set theory, category theory, formal systems, Turing completeness, and Gödel's incompleteness theorems serve as tools for modeling consciousness.  
