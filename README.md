@@ -98,7 +98,7 @@
 - **Anonymity Rights and Information Freedom**  
   Emphasizing the foundational importance of privacy sovereignty, encrypted communication, decentralization, and personal data control in digital survival.
 
-- **Cyber Libertarianism**  
+- **Cyberlibertarianism**  
   Affirming that technology should support individual freedom of choice, expression, creation, and anonymity. Advocating distributed power structures and opposing centralized control and technical discipline—using technology as a tool for liberty.
 
 ---
